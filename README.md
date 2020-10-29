@@ -2,20 +2,18 @@
 
 Welcome to my github profile! 🥳
 
-I'm a Front-end web developer from Colombia, passionate about learning and teaching.
+I'm a Backend-end web developer from Colombia, passionate about learning and teaching.
 
 ## ⚡️Skills
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/html5.png" width="14"> HTML <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/css.jpg" width="12"> CSS <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/js.png" width="12"> Javascript <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/vue.png" width="12"> VueJS <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/nuxt.png" width="14"> NuxtJS <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/node-js.png" width="12"> NodeJS <br>
-✓ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/php.png" width="14"> PHP <br>
+✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/java.png" width="14"> Java <br>
+✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/spring.png" width="12"> Spring <br>
+✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/js.png" width="12"> Javascript <br>
+✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/mysql.png" width="12"> MySQL <br>
+✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/laravel.png" width="14"> Laravel <br>
 
 ## 📚Studying
-→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/react.png" width="12"> React JS <br>
-→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/swift.png" width="12"> Swift <br>
+→ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/angular.png" width="12"> Angular <br>
+→ <img src="https://github.com/ronaldtorres/ronaldtorres/blob/master/.github/node-js.png" width="12"> NodeJS <br>
 
 ## 🖤 I really enjoy
 👨🏽‍💻 Coding <br>
