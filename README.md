@@ -8,7 +8,6 @@ I'm a Backend-end web developer from Colombia, passionate about learning and tea
 ✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/java.png" width="14"> Java <br>
 ✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/spring.png" width="12"> Spring <br>
 ✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/js.png" width="12"> Javascript <br>
-✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/mysql.png" width="12"> MySQL <br>
 ✓ <img src="https://github.com/cbcballestas/cbcballestas/blob/master/.github/laravel.png" width="14"> Laravel <br>
 
 ## 📚Studying
